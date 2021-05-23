@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/Banner.gif"></img>
 
 ### 🧑‍💻: &nbsp;About Me
 
