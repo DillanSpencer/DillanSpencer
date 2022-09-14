@@ -83,6 +83,5 @@ Details
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=dillanspencer&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/dillanspencer/dillanspencer?color=black&logo=github" />
 </p>
 
